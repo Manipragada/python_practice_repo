@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
+    <option name="sdkName" value="Python 3.13 virtualenv at E:\PythonProject\.venv" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (PythonProject) (2)" project-jdk-type="Python SDK" />
+  <component name="PyPackaging">
+    <option name="earlyReleasesAsUpgrades" value="true" />
+  </component>
+=======
     <option name="sdkName" value="Python 3.11 (pyspark-examples)" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (pyspark-examples)" project-jdk-type="Python SDK" />
+>>>>>>> f5aa8f53adbd4d07552ebdd7941a3777812eb94d
 </project>
